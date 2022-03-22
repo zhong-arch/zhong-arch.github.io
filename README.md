@@ -52,7 +52,7 @@ Now, we could start work on the resume to put it on the website.
 Authors and Acknowledgements: 
 The Jekyll theme is default “minima”.
 Group members: Ishman, Zhong, PokYee, Sungjae, Kieran
-![animated resume](/assets/resume_animated.gif "San Juan Mountains")
+![animated resume](/assets/resume_animated.gif)
 
 FAQs
 1.	Why is Markdown better than a word processor?

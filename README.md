@@ -1,9 +1,3 @@
----
-layout: post
-title:  "README"
-date:   2022-03-22 15:35:10 -0500
-categories: jekyll update
----
 ## Title: Hosting and formatting resume
 
 ## Purpose: Describe the practical steps of how to host and format a resume using the software stack

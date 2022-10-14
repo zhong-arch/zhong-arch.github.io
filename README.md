@@ -1,8 +1,8 @@
 # Zhong He
 
 Email: zhongheart@gmail.com  
-Linkedin: https://www.linkedin.com/in/zhong-he-16071666/  
-Github: https://github.com/zhong-arch/My-Projects
+[Linkedin page](https://www.linkedin.com/in/zhong-he-16071666/)  
+[Github projects](https://github.com/zhong-arch/My-Projects)
 
 ## Highlight of Qualifications
 - Grounded and solution-oriented Computer Science student with a wide variety of professional skills.   

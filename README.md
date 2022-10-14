@@ -29,7 +29,7 @@ Eclipse, Intellij, Visual Studio, Android Studio, Github, GitLab, Xcode
 - Korean – Limited  
 
 ## Projects
-**AwemanyBook Android Application - Android development group project**  
+**[AwemanyBook Android Application - Android development group project](https://github.com/zhong-arch/My-Projects/tree/main/Book%20info%20Android%20APP)**  
 The app will allow users to search through the database as well as look through several books by different categories such as top-rated books or personalized recommendations.
 
 -Participated in sprint planning and estimation.   
@@ -37,14 +37,14 @@ The app will allow users to search through the database as well as look through 
 -Integration testing tools.  
 -Contribute to process and quality improvement.  
 
-**Banitoba Course Registration Website - Website development group project**  
+**[Banitoba Course Registration Website - Website development group project](https://github.com/zhong-arch/My-Projects/tree/main/Course%20registration%20website)**  
 The website will allow users to register, drop and check their courses with an easy and comfortable user experience.
 
 -Analyze, design, build and evaluate web-based user interface for the website.  
 -Contribute to high level solution design and definition.  
 -Develop prototypes for proofs-of-concepts.
 
-**Tanks Adventure Browser Game - Website development personal project**
+**[Tanks Adventure Browser Game - Website development personal project](https://github.com/zhong-arch/My-Projects/tree/main/Tanks%20Browser%20Game)**
 The game will allow players to move and shoot enemies with multiple upgrade options to achieve high scores.
 
 ## Work Experience

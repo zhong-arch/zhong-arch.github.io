@@ -5,10 +5,10 @@ Linkedin: https://www.linkedin.com/in/zhong-he-16071666/
 Github: https://github.com/zhong-arch/My-Projects
 
 ## Highlight of Qualifications
-> Grounded and solution-oriented Computer Science student with a wide variety of professional skills.   
-Adept at motivating self and others.    
-Passionate about Database management.   
-Website and Android development with outstanding User Experience design.
+- Grounded and solution-oriented Computer Science student with a wide variety of professional skills.   
+- Adept at motivating self and others.    
+- Passionate about Database management.   
+- Website and Android development with outstanding User Experience design.
 
 ## Technical Skills
 **Tools:**
@@ -24,9 +24,9 @@ Eclipse, Intellij, Visual Studio, Android Studio, Github, GitLab, Xcode
 7.C
 
 ## Foreign Language  
--Mandarin – Native  
--Japanese – Limited  
--Korean – Limited  
+- Mandarin – Native  
+- Japanese – Limited  
+- Korean – Limited  
 
 ## Projects
 **AwemanyBook Android Application - Android development group project**  

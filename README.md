@@ -1,5 +1,3 @@
-# Zhong He
-
 Email: zhongheart@gmail.com  
 [Linkedin page](https://www.linkedin.com/in/zhong-he-16071666/)  
 [Github projects](https://github.com/zhong-arch/My-Projects)

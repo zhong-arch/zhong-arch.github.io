@@ -48,7 +48,7 @@ The website will allow users to register, drop and check their courses with an e
 -Contribute to high level solution design and definition.  
 -Develop prototypes for proofs-of-concepts.
 
-**[Tanks Adventure Browser Game - Website development personal project](https://github.com/zhong-arch/My-Projects/tree/main/Tanks%20Browser%20Game)**
+**[Tanks Adventure Browser Game - Website development personal project](https://github.com/zhong-arch/My-Projects/tree/main/Tanks%20Browser%20Game)**   
 The game will allow players to move and shoot enemies with multiple upgrade options to achieve high scores.
 
 ## Education

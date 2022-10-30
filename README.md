@@ -4,7 +4,7 @@ Email: zhongheart@gmail.com
 
 ## Highlight of Qualifications
 - Grounded and solution-oriented software and web developer.   
-- Proficiency in programming with development tools including HTML, CSS,JavaScript and other programming languages.    
+- Proficiency in programming with development tools including HTML, CSS, JavaScript and other programming languages.    
 - Experience with Improving usability and design aspects of systems.   
 - Ability to work independently as well as within a team environment.
 

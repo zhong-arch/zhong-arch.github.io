@@ -16,7 +16,7 @@ Visual Studio, Android Studio, GitHub, GitLab, XCode
 >1.Java  
 2.JavaScript & HTML & CSS  
 3.SQL  
-4.C & C++
+4.C & C++   
 5.Python
 
 **Web & Mobile Framework**

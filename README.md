@@ -1,5 +1,5 @@
 Email: zhongheart@gmail.com  
-[Linkedin page](https://https://www.linkedin.com/in/zhong01/)  
+[Linkedin page](https://www.linkedin.com/in/zhong01/)  
 [Github projects](https://github.com/zhong-arch/My-Projects)
 
 ## Highlight of Qualifications
